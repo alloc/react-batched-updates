@@ -1,6 +1,6 @@
 {
   "name": "react-batched-updates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross platform unstable_batchedUpdates",
   "author": "Alec Larson",
   "license": "MIT",
