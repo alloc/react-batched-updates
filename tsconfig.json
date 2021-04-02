@@ -1,0 +1,15 @@
+{
+  "files": ["index.ts"],
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "lib": ["es2018"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "outDir": ".",
+    "strict": true,
+    "sourceMap": true,
+    "target": "esnext"
+  }
+}

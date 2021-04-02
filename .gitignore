@@ -1,0 +1,6 @@
+node_modules
+index.*
+cjs/*
+
+!index.ts
+!cjs/index.native.js
