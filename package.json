@@ -5,7 +5,7 @@
   "author": "Alec Larson",
   "license": "MIT",
   "repository": "alloc/react-batched-updates",
-  "main": "cjs/index.js",
+  "main": "cjs/index",
   "module": "index.js",
   "files": [
     "index.*",
