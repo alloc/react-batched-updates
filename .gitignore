@@ -3,4 +3,5 @@ index.*
 cjs/*
 
 !index.ts
+!index.web.js
 !cjs/index.native.js

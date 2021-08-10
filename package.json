@@ -7,6 +7,13 @@
   "repository": "alloc/react-batched-updates",
   "main": "cjs/index",
   "module": "index.js",
+  "exports": {
+    "import": {
+      "browser": "./index.web.js",
+      "default": "./index.js"
+    },
+    "default": "./cjs/index.js"
+  },
   "files": [
     "index.*",
     "cjs"
